@@ -70,5 +70,16 @@ else:
 ```
 </details>
 
+
+<details>
+<summary>Реализация алгоритма Луна на языке Ruby</summary>
+
+```
+
+
+
+```
+</details>
+
 ПРОВЕРИТЬ
 ААААААА
